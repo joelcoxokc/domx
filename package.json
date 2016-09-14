@@ -1,0 +1,25 @@
+{
+  "name": "domx",
+  "version": "1.0.0",
+  "description": "DOM Experience Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joelcoxokc/domx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelcoxokc/domx/issues"
+  },
+  "homepage": "https://github.com/joelcoxokc/domx#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-postcss": "^6.1.1",
+    "postcss": "^5.1.2"
+  }
+}
